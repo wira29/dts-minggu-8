@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dts-minggu-8</string>
+    <string name="buat_file">Buat File</string>
+    <string name="hapus_file">Hapus File</string>
+    <string name="baca_file">Baca File</string>
+    <string name="ubah_file">Ubah File</string>
+    <string name="hasil_baca_file">Hasil Baca File</string>
+</resources>
